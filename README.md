@@ -1,2 +1,4 @@
 # Calculator_Python
-UTS Semester 1 PBE
+UTS Semester 1 Python Programming Language
+
+Simple Calculator
